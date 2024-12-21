@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil GitHub
 
-Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovadoras. Aqui estão alguns dos projetos em que tenho trabalhado:
+Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento front-end com **React JS**. Aqui estão alguns dos projetos em que tenho trabalhado:
 
 ## 🚀 Projetos
 
@@ -16,9 +16,8 @@ Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovador
 ## 🌱 O que estou estudando
 
 Atualmente estou focado em aprimorar minhas habilidades em:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  
 ## 💼 Habilidades
 
 ### Linguagens e Ferramentas:
@@ -29,6 +28,9 @@ Atualmente estou focado em aprimorar minhas habilidades em:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="margin: 4px;"/>
 </div>
 
 ## 📫 Como me encontrar
