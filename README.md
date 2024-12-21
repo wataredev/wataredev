@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovador
 
 ## 🚀 Projetos
 
-[![NaveGuard](https://github-readme-stats.vercel.app/api/pin/?username=wataredev&repo=NaveGuard-FrontEnd&theme=radical)](https://github.com/wataredev/NaveGuard---FrontEnd)
+[![NaveGuard](https://github-readme-stats.vercel.app/api/pin/?username=wataredev&repo=NaveGuard---FrontEnd&theme=radical)](https://github.com/wataredev/NaveGuard---FrontEnd)
 [![Conversor de Moedas](https://github-readme-stats.vercel.app/api/pin/?username=wataredev&repo=conversor-moedas&theme=radical)](https://github.com/wataredev/conversor-moedas)
 
 ## 📈 Estatísticas GitHub
