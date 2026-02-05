@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil GitHub
 
-Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento front-end com **React JS**. Aqui estão alguns dos projetos em que tenho trabalhado:
+Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento em busca de novas oportunidades.
 
 ## 🌱 O que estou estudando
 
@@ -30,19 +30,13 @@ Atualmente estou focado em aprimorar minhas habilidades em:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
 </div>
 
-## 📊 Estatísticas do GitHub
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wataredev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wataredev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wataredev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wataredev&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wataredev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wataredev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=wataredev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
-</div>
+### Top Contribuições
+![](https://github-contributor-stats.vercel.app/api?username=wataredev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Como me encontrar
 
@@ -56,16 +50,6 @@ Estou sempre aberto a colaborar em novos projetos e trocar ideias. Sinta-se à v
 
 ---
 
-<div align="center">
-  
+Obrigado por visitar meu perfil! 😄
+
 ![Profile views](https://komarev.com/ghpvc/?username=wataredev&color=blueviolet)
-
-</div>
-
-###
-
-<div align="center">
-  
-⭐️ Obrigado por visitar meu perfil! 😄
-
-</div>
