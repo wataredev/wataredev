@@ -32,14 +32,6 @@ Atualmente estou focado em aprimorar minhas habilidades em:
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 4px;"/>
 </div>
 
-## 🚀 Meu projeto mais recente
-
-<a href="https://github.com/wataredev/cassino-amigos">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=wataredev&repo=cassino-amigosO&theme=dark" 
-  />
-</a>
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wataredev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=wataredev&theme=dark&hide_border=false)<br/>
