@@ -1,45 +1,99 @@
-# Olá, eu sou o Heverton Victor! 👋
+<h1 align="center">Olá 👋 Eu sou o Heverton Victor!</h1>
 
-### Bem-vindo ao meu perfil GitHub
+###
 
-Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento front-end com **React JS**. Aqui estão alguns dos projetos em que tenho trabalhado:
+<p align="center">Desenvolvedor apaixonado por tecnologia e adoro criar soluções inovadoras</p>
 
-## 🌱 O que estou estudando
+###
 
-Atualmente estou focado em aprimorar minhas habilidades em:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## 💼 Habilidades
-
-### Linguagens e Ferramentas:
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
-## 📫 Como me encontrar
+###
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heverton-victor)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wataredev@gmail.com)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/watarer)
+<div align="center">
+  <a href="https://www.linkedin.com/in/heverton-victor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:wataredev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/watarer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-## 💬 Vamos conversar!
+###
 
-Estou sempre aberto a colaborar em novos projetos e trocar ideias. Sinta-se à vontade para entrar em contato comigo!
+<h2 align="center">🌱 O que estou estudando</h2>
 
----
+<p align="center">
+  Atualmente estou focado em aprimorar minhas habilidades em React, Next.js, TypeScript e Node.js
+</p>
 
-Obrigado por visitar meu perfil! 😄
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wataredev&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wataredev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wataredev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wataredev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wataredev&repo=NOME-DO-SEU-PROJETO-1&theme=dracula&locale=pt-br)](https://github.com/wataredev/NOME-DO-SEU-PROJETO-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wataredev&repo=NOME-DO-SEU-PROJETO-2&theme=dracula&locale=pt-br)](https://github.com/wataredev/NOME-DO-SEU-PROJETO-2)
+
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wataredev/wataredev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wataredev/wataredev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wataredev/wataredev/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wataredev&color=blueviolet" alt="Profile views"  />
+</div>
+
+###
+
+<p align="center">💬 Estou sempre aberto a colaborar em novos projetos e trocar ideias. Sinta-se à vontade para entrar em contato comigo!</p>
+
+###
+
+<p align="center">⭐️ Obrigado por visitar meu perfil! 😄</p>
 ![Profile views](https://komarev.com/ghpvc/?username=wataredev&color=blueviolet)
