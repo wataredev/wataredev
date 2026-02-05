@@ -7,6 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia e adoro criar soluções inovador
 ## 🌱 O que estou estudando
 
 Atualmente estou focado em aprimorar minhas habilidades em:
+
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,6 +16,7 @@ Atualmente estou focado em aprimorar minhas habilidades em:
 ## 💼 Habilidades
 
 ### Linguagens e Ferramentas:
+
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 4px;"/>
@@ -26,6 +28,20 @@ Atualmente estou focado em aprimorar minhas habilidades em:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wataredev&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wataredev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wataredev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wataredev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ## 📫 Como me encontrar
@@ -40,6 +56,16 @@ Estou sempre aberto a colaborar em novos projetos e trocar ideias. Sinta-se à v
 
 ---
 
-Obrigado por visitar meu perfil! 😄
-
+<div align="center">
+  
 ![Profile views](https://komarev.com/ghpvc/?username=wataredev&color=blueviolet)
+
+</div>
+
+###
+
+<div align="center">
+  
+⭐️ Obrigado por visitar meu perfil! 😄
+
+</div>
