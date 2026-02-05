@@ -35,9 +35,6 @@ Atualmente estou focado em aprimorar minhas habilidades em:
 ![](https://nirzak-streak-stats.vercel.app/?user=wataredev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wataredev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Top Contribuições
-![](https://github-contributor-stats.vercel.app/api?username=wataredev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 📫 Como me encontrar
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heverton-victor)
